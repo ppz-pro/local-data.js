@@ -1,0 +1,21 @@
+{
+  "name": "@ppzp/local-data",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppz-pro/local-data.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/ppz-pro/local-data.js/issues"
+  },
+  "homepage": "https://github.com/ppz-pro/local-data.js#readme",
+  "peerDependencies": {
+    "@ppzp/utils": ">=0.0.10"
+  }
+}
